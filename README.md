@@ -1,5 +1,5 @@
 # Neural_network
-This directory contains an image claassification neural network project using Convolution neural networks. The aim of this work is to correctly classify images in the dataset into one of the possible ten categories.
+This directory contains an image claassification neural network project using Convolutional neural networks. The aim of this work is to correctly classify images in the dataset into one of the possible ten categories.
 
 # Installation
 Open a terminal and run
