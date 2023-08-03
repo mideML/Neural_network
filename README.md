@@ -3,6 +3,7 @@ This directory contains an image claassification neural network project using Co
 
 # Installation
 Open a terminal and run
+
 $ pip install tensorflow matplotlib numpy visualkeras
 
 # Data
